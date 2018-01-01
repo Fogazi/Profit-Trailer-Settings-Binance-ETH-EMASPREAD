@@ -1,1 +1,1 @@
-# Profit-Trailer-Settings-Binance-ETH-EMASPREAD
+# ProfitTrailer settings for ETH on Binance - EMASPREAD
